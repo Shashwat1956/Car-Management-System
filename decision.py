@@ -40,7 +40,7 @@ while True:
     elif b == 3:
         print("Welcome", a)
         print("Services")
-        #print("--------")
+        print("--------")
 
         while True:
             print("Choose an option:")
