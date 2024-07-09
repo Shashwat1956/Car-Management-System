@@ -8,7 +8,6 @@
 
   <li><b>Register Your Car: </b>Allows users to register their car by providing details such as the date, car number, and model number.</li>
 
-Register Your Car: Allows users to register their car by providing details such as the date, car number, and model number.
 - **Check the Details:** Users can check the registered details of their car.
 - **Services:**
   - Car Wash
