@@ -1,3 +1,6 @@
+To properly end the `plaintext` code block, you simply need to add the closing triple backticks (` ``` `). Here's the full `README.md` file with the corrected ending for the `Example` section:
+
+```markdown
 # Car Management System
 
 Welcome to the Car Management System, a simple yet effective console-based application designed to manage car registration and services. This program allows users to register their cars, check details, and access various car services with ease.
@@ -27,6 +30,7 @@ Welcome to the Car Management System, a simple yet effective console-based appli
 
 ## Example
 
+```plaintext
 Welcome user = 1956
 -------------------
 CARS DETAILS
@@ -39,7 +43,6 @@ Choose one option.
 3. Services 
 4. Exit
 Enter your choice: 1
-
 Welcome John
 Register your car
 -----------------
@@ -51,6 +54,17 @@ Car registered.
 Thank you
 ----------------------------
 Do you want to continue? (yes/no): yes
+```
+
+## Installation
+
+To use the Car Management System, simply clone this repository and run the `car_management_system.py` file using Python.
+
+```bash
+git clone https://github.com/yourusername/Car-Management-System.git
+cd Car-Management-System
+python car_management_system.py
+```
 
 ## Requirements
 
@@ -75,4 +89,4 @@ Thank you for using the Car Management System!
 Feel free to modify the content according to your repository details and preferences.
 ```
 
-You can save this content in a file named `README.md` in your project directory and commit it to your repository. Be sure to replace `yourusername` with your actual GitHub username and update the contact information as needed.
+Now the `Example` section is properly ended, and the rest of the `README.md` file is complete.
