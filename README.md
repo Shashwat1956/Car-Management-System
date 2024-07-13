@@ -1,6 +1,4 @@
-To properly end the `plaintext` code block, you simply need to add the closing triple backticks (` ``` `). Here's the full `README.md` file with the corrected ending for the `Example` section:
 
-```markdown
 # Car Management System
 
 Welcome to the Car Management System, a simple yet effective console-based application designed to manage car registration and services. This program allows users to register their cars, check details, and access various car services with ease.
