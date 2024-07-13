@@ -1,6 +1,3 @@
-Here's the `README.md` for your Car Management System project, modeled after the style of the NumWizard example:
-
-```markdown
 # Car Management System
 
 Welcome to the Car Management System, a simple yet effective console-based application designed to manage car registration and services. This program allows users to register their cars, check details, and access various car services with ease.
@@ -54,17 +51,7 @@ Car registered.
 Thank you
 ----------------------------
 Do you want to continue? (yes/no): yes
-```
-
-## Installation
-
-To use the Car Management System, simply clone this repository and run the `car_management_system.py` file using Python.
-
-```bash
-git clone https://github.com/yourusername/Car-Management-System.git
-cd Car-Management-System
-python car_management_system.py
-```
+,,,
 
 ## Requirements
 
