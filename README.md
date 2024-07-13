@@ -27,7 +27,6 @@ Welcome to the Car Management System, a simple yet effective console-based appli
 
 ## Example
 
-```plaintext
 Welcome user = 1956
 -------------------
 CARS DETAILS
@@ -40,6 +39,7 @@ Choose one option.
 3. Services 
 4. Exit
 Enter your choice: 1
+
 Welcome John
 Register your car
 -----------------
@@ -51,7 +51,6 @@ Car registered.
 Thank you
 ----------------------------
 Do you want to continue? (yes/no): yes
-,,,
 
 ## Requirements
 
