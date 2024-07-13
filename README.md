@@ -1,6 +1,6 @@
 # Car Management System
 
-This repository contains a console-based Car Management System written in Python. The project showcases fundamental programming skills by providing a simple interface for car registration, checking car details, and accessing car services. It's a great resource for learning and demonstrating proficiency in basic Python programming and user interaction techniques.
+Welcome to the Car Management System, a simple yet effective console-based application designed to manage car registration and services. This program allows users to register their cars, check details, and access various car services with ease.
 
 ## Features
 
@@ -10,13 +10,44 @@ This repository contains a console-based Car Management System written in Python
   - Car Wash
   - Car Paint
   - Servicing (Currently out of service)
-
-Feel free to explore the code, suggest improvements, and use it as a reference for learning basic Python programming.
+- **User-friendly Interface:** Easy-to-follow prompts for input and operation selection.
+- **Looped Operation:** Allows users to perform multiple actions without restarting the program.
 
 ## How to Use
 
-1. **Run the Program:**
-   To run the program, execute the Python script.
+1. **Start the Program:** Run the script to start the Car Management System.
+2. **Input Your Name:** Enter your name when prompted.
+3. **Choose an Option:** Select an option from the menu by entering the corresponding number.
+   - 1. Register your car
+   - 2. Check the details
+   - 3. Services
+   - 4. Exit
+4. **Follow the Instructions:** The program will guide you through the selected option with further prompts.
+5. **Continue or Exit:** After completing an action, choose to perform another action or exit the program.
 
-   ```bash
-   python car_management_system.py
+## Example
+
+```plaintext
+Welcome user = 1956
+-------------------
+CARS DETAILS
+*************
+Enter your name: John
+Hello John
+Choose one option.
+1. Register your car 
+2. Check the details 
+3. Services 
+4. Exit
+Enter your choice: 1
+Welcome John
+Register your car
+-----------------
+Fill the details..
+Date: 2023.07
+Enter your car number: 1234
+Model Number: 5678
+Car registered.
+Thank you
+----------------------------
+Do you want to continue? (yes/no): yes
