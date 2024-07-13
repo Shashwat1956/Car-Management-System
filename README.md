@@ -68,23 +68,9 @@ python car_management_system.py
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## Contact
-
-For any questions or inquiries, please contact [your.email@example.com].
-
 Thank you for using the Car Management System!
 
 ---
 
 Feel free to modify the content according to your repository details and preferences.
-```
 
-Now the `Example` section is properly ended, and the rest of the `README.md` file is complete.
